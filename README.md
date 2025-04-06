@@ -66,13 +66,13 @@ This repo includes:
 
 This is still a work-in-progress and growing every day. If you want to contribute, test, or just chat, I’d love to hear from you!
 
-## 📚 Documentation
+# 📚 Documentation
 
 Here you will find a collection of tutorials, usage examples, and guides to help you get the most out of **ArduinoBP**.
 
 ---
 
-### 🔧 Getting Started
+## 🔧 Getting Started
 
 **Description:**  
 You will still need the Arduino IDE to compile the code. ArduinoBP includes a tool to export `.ino` files.  
@@ -81,7 +81,7 @@ Make sure you have installed the necessary libraries corresponding to the `#incl
 
 ---
 
-### 🧠 Node System Overview
+## 🧠 Node System Overview
 
 **Description:**  
 Understand how the visual node system works, how nodes are connected, and how flow and data types interact to generate valid Arduino code.
@@ -132,7 +132,7 @@ Together, the **Flow + Data** system allows ArduinoBP to visually express comple
 
 
 
-### ⚙️ Setting Examples and Library
+## ⚙️ Setting Examples and Library
 
 **Description:**  
 Before you can use custom nodes or explore the examples, you need to tell ArduinoBP where to find your libraries and example files.
@@ -160,7 +160,7 @@ Below is a screenshot of the settings screen:
 
 ---
 
-### ⚙️ Custom Nodes & Libraries
+## ⚙️ Custom Nodes & Libraries
 
 **Description:**  
 Learn how to create your own custom nodes, import libraries, and expand ArduinoBP for any hardware.
@@ -298,7 +298,7 @@ Once loaded, the nodes and variables will be available automatically in the edit
 
 
 
-### 📤 Exporting & Uploading Code
+## 📤 Exporting & Uploading Code
 
 **Description:**  
 Once your node graph is ready, you can export it to a valid `.ino` file and upload it using the Arduino IDE.
