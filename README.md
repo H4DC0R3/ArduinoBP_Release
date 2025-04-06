@@ -84,8 +84,7 @@ Here you will find a collection of tutorials, usage examples, and guides to help
 You will still need the Arduino IDE to compile the code. ArduinoBP includes a tool to export `.ino` files.  
 Make sure you have installed the necessary libraries corresponding to the `#include` statements in your code, just like you normally would when coding manually.
 
- 📹 [Usage](docs/Using_01.mp4)
-
+[![](https://img.youtube.com/vi/rhwxZbCyeGM/0.jpg)](https://youtu.be/MXAnA1S_H7k)
 
 ---
 
@@ -353,11 +352,25 @@ Reads temperature and humidity values from the AHT10 sensor and displays them vi
 
 - **Library Used:** `Adafruit_AHTX0.h`
 - **Board:**  
-  ![Board](docs/AHT10_Board.png)
+  ![Board](docs/AHT10_Board.jpg)
 - **Blueprint Graph:**  
   ![Graph](docs/AHT10_Graph.png)
 - **Final Result:**  
-  📹 [Watch the demo](docs/AHT10_Video.mp4)
+[![Watch on YouTube](https://img.youtube.com/vi/rhwxZbCyeGM/0.jpg)](https://youtu.be/rhwxZbCyeGM)
+
+---
+
+### 🖼️ GC9A01 (TFT Circular Display)
+
+Displays animated graphics and text on a circular GC9A01 TFT screen using the Arduino GFX library.
+
+- **Library Used:** `Arduino_GFX_Library.h`
+- **Board:**  
+  ![Board](docs/GC9A01_Board.png)
+- **Blueprint Graph:**  
+  ![Graph](docs/GC9A01_Graph.png)
+- **Final Result:**  
+  📹 [![Watch on YouTube](https://img.youtube.com/vi/ehu6qjgtwos/0.jpg)](https://youtu.be/ehu6qjgtwos)
 
 ---
 
@@ -367,11 +380,11 @@ Measures the distance to nearby objects using an ultrasonic sensor and prints th
 
 - **Library Used:** ArduinoBP default
 - **Board:**  
-  ![Board](docs/HC-SR04_Board.png)
+  ![Board](docs/HC-SR04_Board.jpg)
 - **Blueprint Graph:**  
   ![Graph](docs/HC-SR04_Graph.png)
 - **Final Result:**  
-  📹 [Watch the demo](docs/HC-SR04_Video.mp4)
+[![Watch on YouTube](https://img.youtube.com/vi/YKVhoRsDeAk/0.jpg)](https://youtu.be/YKVhoRsDeAk)
 
 ---
 
@@ -382,11 +395,11 @@ This example shows one of the practical features that can be applied using the b
 
 - **Library Used:** ArduinoBP default
 - **Board:**  
-  ![Board](docs/LED-Sequence_Board.png)
+  ![Board](docs/LED-Sequence_Board.jpg)
 - **Blueprint Graph:**  
   ![Graph](docs/LED-Sequence_Graph.png)
 - **Final Result:**  
-  📹 [Watch the demo](docs/LED-Sequence_Video.mp4)
+[![Watch on YouTube](https://img.youtube.com/vi/_C-ZN5mHv9g/0.jpg)](https://youtu.be/_C-ZN5mHv9g)
 
 ---
 
@@ -397,11 +410,11 @@ This demo demonstrates a custom library that works with more than one device at 
 
 - **Library Used:**  `AudioFileSourceSD.h` `AudioGeneratorMP3.h` `AudioOutputI2S.h`
 - **Board:**  
-  ![Board](docs/MP3-Player_Board.png)
+  ![Board](docs/MP3-Player_Board.jpg)
 - **Blueprint Graph:**  
   ![Graph](docs/MP3-Player_Graph.png)
 - **Final Result:**  
-  📹 [Watch the demo](docs/MP3-Player_Video.mp4)
+[![Watch on YouTube](https://img.youtube.com/vi/TgYfw-ICHds/0.jpg)](https://youtu.be/TgYfw-ICHds)
 
 ---
 
@@ -411,11 +424,11 @@ Reads gyro and accelerometer data and prints the values to the serial monitor.
 
 - **Library Used:** `MPU6050.h`
 - **Board:**  
-  ![Board](docs/MPU-6050_Board.png)
+  ![Board](docs/MPU-6050_Board.jpg)
 - **Blueprint Graph:**  
   ![Graph](docs/MPU-6050_Graph.png)
 - **Final Result:**  
-  📹 [Watch the demo](docs/MPU-6050_Video.mp4)
+[![Watch on YouTube](https://img.youtube.com/vi/738FoGOJJqI/0.jpg)](https://youtu.be/738FoGOJJqI)
 
 ---
 
@@ -427,11 +440,11 @@ This example shows how you can reuse functions already created to reduce the siz
 
 - **Library Used:** `Adafruit_NeoPixel.h`
 - **Board:**  
-  ![Board](docs/NeoPixel_Board.png)
+  ![Board](docs/NeoPixel_Board.jpg)
 - **Blueprint Graph:**  
   ![Graph](docs/NeoPixel_Graph.png)
 - **Final Result:**  
-  📹 [Watch the demo](docs/NeoPixel_Video.mp4)
+[![Watch on YouTube](https://img.youtube.com/vi/bwQ8pjkpdAs/0.jpg)](https://youtu.be/bwQ8pjkpdAs)
 
 ---
 
@@ -441,11 +454,11 @@ Activates a vibration motor based on input from a sensor (e.g., light or pressur
 
 - **Library Used:** ArduinoBP default
 - **Board:**  
-  ![Board](docs/SensorAndVibration_Board.png)
+  ![Board](docs/SensorAndVibration_Board.jpg)
 - **Blueprint Graph:**  
   ![Graph](docs/SensorAndVibration_Graph.png)
 - **Final Result:**  
-  📹 [Watch the demo](docs/SensorAndVibration_Video.mp4)
+[![Watch on YouTube](https://img.youtube.com/vi/wJ84QlkeFmA/0.jpg)](https://youtu.be/wJ84QlkeFmA)
 
 ---
 
@@ -455,11 +468,11 @@ Rotates a servo motor smoothly using interpolation based on sensor input or logi
 
 - **Library Used:** `ESP32Servo.h`
 - **Board:**  
-  ![Board](docs/SG90-ESP32_Board.png)
+  ![Board](docs/SG90-ESP32_Board.jpg)
 - **Blueprint Graph:**  
   ![Graph](docs/SG90-ESP32_Graph.png)
 - **Final Result:**  
-  📹 [Watch the demo](docs/SG90-ESP32_Video.mp4)
+[![Watch on YouTube](https://img.youtube.com/vi/TY-3DgRyc9A/0.jpg)](https://youtu.be/TY-3DgRyc9A)
 
 ---
 
@@ -469,8 +482,8 @@ Reads ambient light levels and displays the value on the serial monitor.
 
 - **Library Used:** ArduinoBP default
 - **Board:**  
-  ![Board](docs/TEMT6000_Board.png)
+  ![Board](docs/TEMT6000_Board.jpg)
 - **Blueprint Graph:**  
   ![Graph](docs/TEMT6000_Graph.png)
 - **Final Result:**  
-  📹 [Watch the demo](docs/TEMT6000_Video.mp4)
+[![Watch on YouTube](https://img.youtube.com/vi/z8tu8lGXSHY/0.jpg)](https://youtu.be/z8tu8lGXSHY)
