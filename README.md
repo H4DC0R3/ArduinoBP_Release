@@ -33,8 +33,13 @@ Here are some node types you’ll find:
 ## Community
 
 If you're working on a project, stuck on something, or just want to talk ideas, come hang out on Discord. We’re building a small but helpful community.
+Additionally, you can report bugs or request features in dedicated channels.
+I will respond to requests as they arise and I have time, you can follow the progress on Trello.
 
 [![Join us on Discord](https://img.shields.io/badge/Join%20Us-Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/mxsfKku7JV)
+
+[![View Trello Roadmap](https://img.shields.io/badge/View-Roadmap-0079BF?logo=trello&logoColor=white)](https://trello.com/b/lSe6i005/arduinobp-roadmap)
+
 
 
 ## Support ArduinoBP
