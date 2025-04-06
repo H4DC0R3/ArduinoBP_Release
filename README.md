@@ -34,7 +34,8 @@ Here are some node types you’ll find:
 
 If you're working on a project, stuck on something, or just want to talk ideas, come hang out on Discord. We’re building a small but helpful community.
 
-Discord: [https://discord.gg/mxsfKku7JV]
+[![Join us on Discord](https://img.shields.io/badge/Join%20Us-Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/mxsfKku7JV)
+
 
 ## Support ArduinoBP
 
