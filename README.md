@@ -359,6 +359,7 @@ Reads temperature and humidity values from the AHT10 sensor and displays them vi
 - **Blueprint Graph:**  
   ![Graph](docs/AHT10_Graph.png)
 - **Final Result:**  
+
 https://github.com/user-attachments/assets/eaaf5b21-b967-4252-b14c-46f918248ab7
 
 ---
@@ -373,6 +374,7 @@ Displays animated graphics and text on a circular GC9A01 TFT screen using the Ar
 - **Blueprint Graph:**  
   ![Graph](docs/GC9A01_Graph.png)
 - **Final Result:**  
+
 https://github.com/user-attachments/assets/eeb055a9-163d-4d03-a091-387c4d20d665
 
 ---
@@ -387,6 +389,7 @@ Measures the distance to nearby objects using an ultrasonic sensor and prints th
 - **Blueprint Graph:**  
   ![Graph](docs/HC-SR04_Graph.png)
 - **Final Result:**  
+
 https://github.com/user-attachments/assets/79fd9b13-cced-41f6-8c3b-33a19afa211b
 
 ---
@@ -402,6 +405,7 @@ This example shows one of the practical features that can be applied using the b
 - **Blueprint Graph:**  
   ![Graph](docs/LED-Sequence_Graph.png)
 - **Final Result:**  
+
 https://github.com/user-attachments/assets/7196aa86-375f-429d-8142-28b5b161c50a
 
 ---
@@ -417,6 +421,7 @@ This demo demonstrates a custom library that works with more than one device at 
 - **Blueprint Graph:**  
   ![Graph](docs/MP3-Player_Graph.png)
 - **Final Result:**  
+
 https://github.com/user-attachments/assets/a3333d8d-7629-4f23-b73d-db94e4db7a8c
 
 ---
@@ -478,6 +483,7 @@ Rotates a servo motor smoothly using interpolation based on sensor input or logi
 - **Blueprint Graph:**  
   ![Graph](docs/SG90-ESP32_Graph.png)
 - **Final Result:**  
+
 https://github.com/user-attachments/assets/ae879272-f72d-4fcd-b079-18a1ee8506b8
 
 ---
@@ -492,4 +498,5 @@ Reads ambient light levels and displays the value on the serial monitor.
 - **Blueprint Graph:**  
   ![Graph](docs/TEMT6000_Graph.png)
 - **Final Result:**  
+
 https://github.com/user-attachments/assets/103b6660-6e0f-4d1b-b610-19f3d930b57e
