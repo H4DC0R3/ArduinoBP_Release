@@ -489,4 +489,4 @@ Reads ambient light levels and displays the value on the serial monitor.
 - **Blueprint Graph:**  
   ![Graph](docs/TEMT6000_Graph.png)
 - **Final Result:**  
- https://github.com/user-attachments/assets/bb4a8191-c859-40ee-a241-0986ecd60121
+ https://github.com/user-attachments/assets/bb4a8191-c859-40ee-a241-0986ecd60121.mp4
