@@ -370,7 +370,7 @@ Displays animated graphics and text on a circular GC9A01 TFT screen using the Ar
 
 - **Library Used:** `Arduino_GFX_Library.h`
 - **Board:**  
-  ![Board](docs/GC9A01_Board.png)
+  ![Board](docs/GC9A01_Board.jpg)
 - **Blueprint Graph:**  
   ![Graph](docs/GC9A01_Graph.png)
 - **Final Result:**  
