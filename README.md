@@ -8,6 +8,9 @@ ArduinoBP was built to make Arduino development easier and more fun, especially 
 
 This project runs on top of LiteGraph.js and adds a ton of features.
 
+**Image:**  
+![Getting Started Screenshot](docs/Image_01.png)
+
 ## How does it work?
 
 1. You start by placing a `Setup` and `Loop` node.
