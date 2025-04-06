@@ -6,7 +6,7 @@ ArduinoBP is a visual tool that lets you build Arduino code using a node-based s
 
 ArduinoBP was built to make Arduino development easier and more fun, especially for people who like to think visually. It supports everything from basic math and logic to sensors, MP3 playback, TFT displays, and more. You can even build your own custom libraries and extend the system however you want.
 
-This project runs on top of LiteGraph.js and adds a ton of features.
+This project runs on top of LiteGraph.js (Based on imgui-node-editor) and adds a ton of features.
 
 **Image:**  
 ![Getting Started Screenshot](docs/Image_01.png)
