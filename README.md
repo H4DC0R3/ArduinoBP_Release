@@ -49,6 +49,8 @@ If this project has helped you in any way, consider supporting it — every bit 
 **Thank you for being part of this journey.**
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=RHHMMWMGAYZH8)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow?logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/arduinobp)
+
 
 
 
