@@ -359,7 +359,7 @@ Reads temperature and humidity values from the AHT10 sensor and displays them vi
 - **Blueprint Graph:**  
   ![Graph](docs/AHT10_Graph.png)
 - **Final Result:**  
-[![Watch on YouTube](https://img.youtube.com/vi/rhwxZbCyeGM/0.jpg)](https://youtu.be/rhwxZbCyeGM)
+https://github.com/user-attachments/assets/1d76af5b-68f1-4888-91d0-3580f08aaffe
 
 ---
 
@@ -373,7 +373,7 @@ Displays animated graphics and text on a circular GC9A01 TFT screen using the Ar
 - **Blueprint Graph:**  
   ![Graph](docs/GC9A01_Graph.png)
 - **Final Result:**  
-  📹 [![Watch on YouTube](https://img.youtube.com/vi/ehu6qjgtwos/0.jpg)](https://youtu.be/ehu6qjgtwos)
+https://github.com/user-attachments/assets/d5d81bf8-df87-410d-bfa8-0dc39ae7e17c
 
 ---
 
@@ -387,7 +387,7 @@ Measures the distance to nearby objects using an ultrasonic sensor and prints th
 - **Blueprint Graph:**  
   ![Graph](docs/HC-SR04_Graph.png)
 - **Final Result:**  
-[![Watch on YouTube](https://img.youtube.com/vi/YKVhoRsDeAk/0.jpg)](https://youtu.be/YKVhoRsDeAk)
+https://github.com/user-attachments/assets/e9998a76-1e9d-4018-9e78-fdbf2bfb3831
 
 ---
 
@@ -402,7 +402,7 @@ This example shows one of the practical features that can be applied using the b
 - **Blueprint Graph:**  
   ![Graph](docs/LED-Sequence_Graph.png)
 - **Final Result:**  
-[![Watch on YouTube](https://img.youtube.com/vi/_C-ZN5mHv9g/0.jpg)](https://youtu.be/_C-ZN5mHv9g)
+https://github.com/user-attachments/assets/6bfbb454-877d-4c46-9b0e-30dd7e9496a4
 
 ---
 
@@ -417,7 +417,7 @@ This demo demonstrates a custom library that works with more than one device at 
 - **Blueprint Graph:**  
   ![Graph](docs/MP3-Player_Graph.png)
 - **Final Result:**  
-[![Watch on YouTube](https://img.youtube.com/vi/TgYfw-ICHds/0.jpg)](https://youtu.be/TgYfw-ICHds)
+https://github.com/user-attachments/assets/08c83241-273e-48e6-99ab-711987fbf8bd
 
 ---
 
@@ -431,7 +431,7 @@ Reads gyro and accelerometer data and prints the values to the serial monitor.
 - **Blueprint Graph:**  
   ![Graph](docs/MPU-6050_Graph.png)
 - **Final Result:**  
-[![Watch on YouTube](https://img.youtube.com/vi/738FoGOJJqI/0.jpg)](https://youtu.be/738FoGOJJqI)
+https://github.com/user-attachments/assets/ccd9f16b-4a37-4115-86ef-71be94209d13
 
 ---
 
@@ -447,7 +447,7 @@ This example shows how you can reuse functions already created to reduce the siz
 - **Blueprint Graph:**  
   ![Graph](docs/NeoPixel_Graph.png)
 - **Final Result:**  
-[![Watch on YouTube](https://img.youtube.com/vi/bwQ8pjkpdAs/0.jpg)](https://youtu.be/bwQ8pjkpdAs)
+https://github.com/user-attachments/assets/bd099118-3f3f-4e8b-9aae-d72400bd3c06
 
 ---
 
@@ -461,7 +461,7 @@ Activates a vibration motor based on input from a sensor (e.g., light or pressur
 - **Blueprint Graph:**  
   ![Graph](docs/SensorAndVibration_Graph.png)
 - **Final Result:**  
-[![Watch on YouTube](https://img.youtube.com/vi/wJ84QlkeFmA/0.jpg)](https://youtu.be/wJ84QlkeFmA)
+https://github.com/user-attachments/assets/67f8deb1-2037-4b94-88ef-e821073cf5ea
 
 ---
 
@@ -475,7 +475,7 @@ Rotates a servo motor smoothly using interpolation based on sensor input or logi
 - **Blueprint Graph:**  
   ![Graph](docs/SG90-ESP32_Graph.png)
 - **Final Result:**  
-[![Watch on YouTube](https://img.youtube.com/vi/TY-3DgRyc9A/0.jpg)](https://youtu.be/TY-3DgRyc9A)
+https://github.com/user-attachments/assets/bcd7b98d-3fa6-4e48-9860-83ba032ccd4a
 
 ---
 
@@ -489,4 +489,4 @@ Reads ambient light levels and displays the value on the serial monitor.
 - **Blueprint Graph:**  
   ![Graph](docs/TEMT6000_Graph.png)
 - **Final Result:**  
-[![Watch on YouTube](https://img.youtube.com/vi/z8tu8lGXSHY/0.jpg)](https://youtu.be/z8tu8lGXSHY)
+https://github.com/user-attachments/assets/bb4a8191-c859-40ee-a241-0986ecd60121
