@@ -84,7 +84,8 @@ Here you will find a collection of tutorials, usage examples, and guides to help
 You will still need the Arduino IDE to compile the code. ArduinoBP includes a tool to export `.ino` files.  
 Make sure you have installed the necessary libraries corresponding to the `#include` statements in your code, just like you normally would when coding manually.
 
-📹 [](https://github.com/user-attachments/assets/c481eebe-5cf3-4ed1-8c6f-c7cc404ade27)
+📹 [Click to watch the video](https://github.com/user-attachments/assets/c481eebe-5cf3-4ed1-8c6f-c7cc404ade27)
+
 
 
 ---
