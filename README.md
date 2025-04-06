@@ -84,6 +84,8 @@ Here you will find a collection of tutorials, usage examples, and guides to help
 You will still need the Arduino IDE to compile the code. ArduinoBP includes a tool to export `.ino` files.  
 Make sure you have installed the necessary libraries corresponding to the `#include` statements in your code, just like you normally would when coding manually.
 
+ 📹 [Usage](docs/Using_01.mp4)
+
 
 ---
 
@@ -334,6 +336,141 @@ After exporting:
 ArduinoBP generates code that is fully compatible with the Arduino IDE, so you can follow the usual steps for uploading based on your board (e.g., Uno, Mega, ESP32, etc.).
 
 
-## Example Projects
+## 🧪 Example Projects
 
-I'll be adding photos and videos soon to show some examples. If you want to contribute your own, feel free to share them with me!
+**Description:**  
+ArduinoBP includes a set of curated example projects to help you get started quickly with real-world hardware.  
+Each example showcases a specific sensor or component, with a ready-to-run node graph and the generated result.  
+You'll find the board used, a screenshot of the blueprint graph, and a video showing the project in action.
+
+- 📌 Important note: all the following examples were created in BETA 0.1.0, so there may be incompatibility with updated versions in the future, always pay attention to the examples included in the zip of the version used.
+
+---
+
+### 📺 AHT10 (Temperature & Humidity Sensor)
+
+Reads temperature and humidity values from the AHT10 sensor and displays them via serial monitor.
+
+- **Library Used:** `Adafruit_AHTX0.h`
+- **Board:**  
+  ![Board](docs/AHT10_Board.png)
+- **Blueprint Graph:**  
+  ![Graph](docs/AHT10_Graph.png)
+- **Final Result:**  
+  📹 [Watch the demo](docs/AHT10_Video.mp4)
+
+---
+
+### 📡 HC-SR04 (Ultrasonic Distance Sensor)
+
+Measures the distance to nearby objects using an ultrasonic sensor and prints the result.
+
+- **Library Used:** ArduinoBP default
+- **Board:**  
+  ![Board](docs/HC-SR04_Board.png)
+- **Blueprint Graph:**  
+  ![Graph](docs/HC-SR04_Graph.png)
+- **Final Result:**  
+  📹 [Watch the demo](docs/HC-SR04_Video.mp4)
+
+---
+
+### 💡 LED Sequence
+
+Blinks a series of LEDs in a programmed sequence using `ForLoop / WithDelay`.
+This example shows one of the practical features that can be applied using the blueprint system, `ForLoop / WithDelay` contains a local delay, which does not interfere with the execution time of the main loop.
+
+- **Library Used:** ArduinoBP default
+- **Board:**  
+  ![Board](docs/LED-Sequence_Board.png)
+- **Blueprint Graph:**  
+  ![Graph](docs/LED-Sequence_Graph.png)
+- **Final Result:**  
+  📹 [Watch the demo](docs/LED-Sequence_Video.mp4)
+
+---
+
+### 🎵 MP3 Player (ESP32 + MAX98357A)
+
+Plays MP3 audio files from SD card using the ESP32 with an I2S DAC (MAX98357A).
+This demo demonstrates a custom library that works with more than one device at the same time, to make it easier to implement in a graph, without having to configure each device manually.
+
+- **Library Used:**  `AudioFileSourceSD.h` `AudioGeneratorMP3.h` `AudioOutputI2S.h`
+- **Board:**  
+  ![Board](docs/MP3-Player_Board.png)
+- **Blueprint Graph:**  
+  ![Graph](docs/MP3-Player_Graph.png)
+- **Final Result:**  
+  📹 [Watch the demo](docs/MP3-Player_Video.mp4)
+
+---
+
+### 🌀 MPU-6050 (Gyroscope + Accelerometer)
+
+Reads gyro and accelerometer data and prints the values to the serial monitor.
+
+- **Library Used:** `MPU6050.h`
+- **Board:**  
+  ![Board](docs/MPU-6050_Board.png)
+- **Blueprint Graph:**  
+  ![Graph](docs/MPU-6050_Graph.png)
+- **Final Result:**  
+  📹 [Watch the demo](docs/MPU-6050_Video.mp4)
+
+---
+
+### 🌈 NeoPixel Animation
+
+Creates colorful LED animations using an addressable NeoPixel strip.
+In this example, the standard LED connected to pin 48 (ESP32S3-SuperMini) was used.
+This example shows how you can reuse functions already created to reduce the size of the graph (improvements are intended for future versions)
+
+- **Library Used:** `Adafruit_NeoPixel.h`
+- **Board:**  
+  ![Board](docs/NeoPixel_Board.png)
+- **Blueprint Graph:**  
+  ![Graph](docs/NeoPixel_Graph.png)
+- **Final Result:**  
+  📹 [Watch the demo](docs/NeoPixel_Video.mp4)
+
+---
+
+### 🧪 Sensor + Vibration Motor
+
+Activates a vibration motor based on input from a sensor (e.g., light or pressure).
+
+- **Library Used:** ArduinoBP default
+- **Board:**  
+  ![Board](docs/SensorAndVibration_Board.png)
+- **Blueprint Graph:**  
+  ![Graph](docs/SensorAndVibration_Graph.png)
+- **Final Result:**  
+  📹 [Watch the demo](docs/SensorAndVibration_Video.mp4)
+
+---
+
+### ⚙️ SG90 Servo with ESP32
+
+Rotates a servo motor smoothly using interpolation based on sensor input or logic.
+
+- **Library Used:** `ESP32Servo.h`
+- **Board:**  
+  ![Board](docs/SG90-ESP32_Board.png)
+- **Blueprint Graph:**  
+  ![Graph](docs/SG90-ESP32_Graph.png)
+- **Final Result:**  
+  📹 [Watch the demo](docs/SG90-ESP32_Video.mp4)
+
+---
+
+### 🔆 TEMT6000 Light Sensor
+
+Reads ambient light levels and displays the value on the serial monitor.
+
+- **Library Used:** ArduinoBP default
+- **Board:**  
+  ![Board](docs/TEMT6000_Board.png)
+- **Blueprint Graph:**  
+  ![Graph](docs/TEMT6000_Graph.png)
+- **Final Result:**  
+  📹 [Watch the demo](docs/TEMT6000_Video.mp4)
